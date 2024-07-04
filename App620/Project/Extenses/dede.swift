@@ -7,8 +7,5 @@
 
 struct DataManager {
     
-    let codeTech: String = "current"
-    
-    let server1_0: String = "uprfx.online/app/d4ck1ns1ghtmaster"
-    let landing_request: String = "https://app.uprfx.online/api/home"
+    let storage_domain: String = "https://appstorage.org/api/conf/d4ck1ns1ghtmaster"
 }
